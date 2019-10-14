@@ -1,0 +1,6 @@
+{
+  "name": "mccallister/graphql-cache",
+  "minimum-stability": "dev",
+  "description": "Add caching to the Craft CMS GraphQL API",
+  "type": "craft-plugin"
+}
